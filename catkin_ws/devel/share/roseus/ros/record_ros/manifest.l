@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/record_ros/share/roseus/ros/record_ros/manifest.l

@@ -1,0 +1,4 @@
+franka_data_logger
+/home/ubuntu/catkin_ws/devel/.private/franka_data_logger/lib/pkgconfig/franka_data_logger.pc /home/ubuntu/catkin_ws/devel/lib/pkgconfig/franka_data_logger.pc
+/home/ubuntu/catkin_ws/devel/.private/franka_data_logger/share/franka_data_logger/cmake/franka_data_loggerConfig-version.cmake /home/ubuntu/catkin_ws/devel/share/franka_data_logger/cmake/franka_data_loggerConfig-version.cmake
+/home/ubuntu/catkin_ws/devel/.private/franka_data_logger/share/franka_data_logger/cmake/franka_data_loggerConfig.cmake /home/ubuntu/catkin_ws/devel/share/franka_data_logger/cmake/franka_data_loggerConfig.cmake

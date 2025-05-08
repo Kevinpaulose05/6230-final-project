@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/franka_msgs/include/franka_msgs/SetJointConfigurationRequest.h

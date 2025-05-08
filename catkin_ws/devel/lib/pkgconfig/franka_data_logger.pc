@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/franka_data_logger/lib/pkgconfig/franka_data_logger.pc

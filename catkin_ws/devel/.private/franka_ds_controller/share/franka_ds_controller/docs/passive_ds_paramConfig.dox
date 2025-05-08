@@ -1,0 +1,10 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~damping_eigval0" : \b [double] Damping eigval 0 min: 0.0, default: 100.0, max: 1000.0
+- \b "~damping_eigval1" : \b [double] Damping eigval 1 min: 0.0, default: 100.0, max: 1000.0
+- \b "~activate_tool_compensation" : \b [bool] Enable tool compensation min: False, default: True, max: True
+- \b "~activate_angular_passiveDS" : \b [bool] Enable angular Passive DS min: False, default: True, max: True
+- \b "~update_impedance_params" : \b [bool] Live update impedance values min: False, default: False, max: True
+

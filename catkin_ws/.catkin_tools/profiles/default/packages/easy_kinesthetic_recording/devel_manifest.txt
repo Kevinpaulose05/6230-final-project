@@ -1,0 +1,8 @@
+easy_kinesthetic_recording
+/home/ubuntu/catkin_ws/devel/.private/easy_kinesthetic_recording/lib/pkgconfig/easy_kinesthetic_recording.pc /home/ubuntu/catkin_ws/devel/lib/pkgconfig/easy_kinesthetic_recording.pc
+/home/ubuntu/catkin_ws/devel/.private/easy_kinesthetic_recording/lib/python3/dist-packages/easy_kinesthetic_recording/__init__.py /home/ubuntu/catkin_ws/devel/lib/python3/dist-packages/easy_kinesthetic_recording/__init__.py
+/home/ubuntu/catkin_ws/devel/.private/easy_kinesthetic_recording/lib/easy_kinesthetic_recording/gui_topic_recorder_client.py /home/ubuntu/catkin_ws/devel/lib/easy_kinesthetic_recording/gui_topic_recorder_client.py
+/home/ubuntu/catkin_ws/devel/.private/easy_kinesthetic_recording/lib/easy_kinesthetic_recording/franka_traj_viz.py /home/ubuntu/catkin_ws/devel/lib/easy_kinesthetic_recording/franka_traj_viz.py
+/home/ubuntu/catkin_ws/devel/.private/easy_kinesthetic_recording/lib/easy_kinesthetic_recording/franka_obj_viz.py /home/ubuntu/catkin_ws/devel/lib/easy_kinesthetic_recording/franka_obj_viz.py
+/home/ubuntu/catkin_ws/devel/.private/easy_kinesthetic_recording/share/easy_kinesthetic_recording/cmake/easy_kinesthetic_recordingConfig-version.cmake /home/ubuntu/catkin_ws/devel/share/easy_kinesthetic_recording/cmake/easy_kinesthetic_recordingConfig-version.cmake
+/home/ubuntu/catkin_ws/devel/.private/easy_kinesthetic_recording/share/easy_kinesthetic_recording/cmake/easy_kinesthetic_recordingConfig.cmake /home/ubuntu/catkin_ws/devel/share/easy_kinesthetic_recording/cmake/easy_kinesthetic_recordingConfig.cmake

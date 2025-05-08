@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/record_ros/share/gennodejs/ros/record_ros/_index.js

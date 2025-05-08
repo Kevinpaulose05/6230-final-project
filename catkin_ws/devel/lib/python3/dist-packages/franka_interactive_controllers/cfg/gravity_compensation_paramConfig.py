@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/franka_interactive_controllers/lib/python3/dist-packages/franka_interactive_controllers/cfg/gravity_compensation_paramConfig.py

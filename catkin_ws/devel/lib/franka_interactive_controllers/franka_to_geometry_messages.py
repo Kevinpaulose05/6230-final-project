@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/franka_interactive_controllers/lib/franka_interactive_controllers/franka_to_geometry_messages.py

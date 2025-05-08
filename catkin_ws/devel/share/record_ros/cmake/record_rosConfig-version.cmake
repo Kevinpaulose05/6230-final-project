@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/record_ros/share/record_ros/cmake/record_rosConfig-version.cmake

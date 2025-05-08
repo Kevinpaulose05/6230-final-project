@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/easy_kinesthetic_recording/lib/easy_kinesthetic_recording/gui_topic_recorder_client.py

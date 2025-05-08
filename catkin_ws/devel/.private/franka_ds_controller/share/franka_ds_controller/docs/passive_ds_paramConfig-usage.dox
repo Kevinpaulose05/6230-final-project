@@ -1,0 +1,11 @@
+\subsubsection usage Usage
+\verbatim
+<node name="franka_ds_controller" pkg="franka_ds_controller" type="franka_ds_controller">
+  <param name="damping_eigval0" type="double" value="100.0" />
+  <param name="damping_eigval1" type="double" value="100.0" />
+  <param name="activate_tool_compensation" type="bool" value="True" />
+  <param name="activate_angular_passiveDS" type="bool" value="True" />
+  <param name="update_impedance_params" type="bool" value="False" />
+</node>
+\endverbatim
+

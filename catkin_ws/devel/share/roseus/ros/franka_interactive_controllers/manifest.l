@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/franka_interactive_controllers/share/roseus/ros/franka_interactive_controllers/manifest.l

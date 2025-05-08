@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install
+
+Name: franka_data_logger
+Description: Description of franka_data_logger
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

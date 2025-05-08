@@ -1,0 +1,8 @@
+In file included from [01m[K/home/ubuntu/catkin_ws/src/franka_ds_controller/src/passiveDS_impedance_controller.cpp:6[m[K:
+[01m[K/home/ubuntu/catkin_ws/src/franka_ds_controller/include/franka_ds_controller/passiveDS_impedance_controller.h:19:10:[m[K [01;31m[Kfatal error: [m[KEigen/Dense: No such file or directory
+   19 | #include [01;31m[K<Eigen/Dense>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/passive_ds_impedance_controller.dir/build.make:63: CMakeFiles/passive_ds_impedance_controller.dir/src/passiveDS_impedance_controller.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:787: CMakeFiles/passive_ds_impedance_controller.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

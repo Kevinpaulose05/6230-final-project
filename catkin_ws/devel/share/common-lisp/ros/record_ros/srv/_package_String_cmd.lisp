@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/record_ros/share/common-lisp/ros/record_ros/srv/_package_String_cmd.lisp

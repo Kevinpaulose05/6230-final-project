@@ -1,0 +1,7 @@
+[01m[K/home/ubuntu/catkin_ws/src/franka_ds_controller/src/passiveDS_impedance_controller.cpp:6:10:[m[K [01;31m[Kfatal error: [m[KpassiveDS_impedance_controller.h: No such file or directory
+    6 | #include [01;31m[K<passiveDS_impedance_controller.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/passive_ds_impedance_controller.dir/build.make:63: CMakeFiles/passive_ds_impedance_controller.dir/src/passiveDS_impedance_controller.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:787: CMakeFiles/passive_ds_impedance_controller.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/easy_kinesthetic_recording/lib/pkgconfig/easy_kinesthetic_recording.pc

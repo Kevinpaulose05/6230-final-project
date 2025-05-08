@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/easy_kinesthetic_recording/lib/python3/dist-packages/easy_kinesthetic_recording/__init__.py

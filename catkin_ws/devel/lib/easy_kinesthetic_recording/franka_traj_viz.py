@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/easy_kinesthetic_recording/lib/easy_kinesthetic_recording/franka_traj_viz.py

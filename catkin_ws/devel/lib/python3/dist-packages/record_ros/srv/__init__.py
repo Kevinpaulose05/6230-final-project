@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/record_ros/lib/python3/dist-packages/record_ros/srv/__init__.py

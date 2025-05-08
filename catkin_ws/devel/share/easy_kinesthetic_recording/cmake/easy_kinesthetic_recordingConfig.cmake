@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/easy_kinesthetic_recording/share/easy_kinesthetic_recording/cmake/easy_kinesthetic_recordingConfig.cmake

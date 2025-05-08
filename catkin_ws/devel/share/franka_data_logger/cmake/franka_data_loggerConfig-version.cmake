@@ -1,0 +1,1 @@
+/home/ubuntu/catkin_ws/devel/.private/franka_data_logger/share/franka_data_logger/cmake/franka_data_loggerConfig-version.cmake
